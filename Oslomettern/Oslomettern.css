@@ -1,16 +1,12 @@
 body {
     background-image: url("img/resturant.webp");
     background-position: center;
-    height: 400px;
+    height: 100px;
     background-position: cover;
     background-repeat: no-repeat;
-    position: relative;
-}
-footer{
     background-color: black;
-}
-footer p{
-    color:white;
+    position: relative;
+
 }
 h1 {
     color: white;
@@ -22,11 +18,12 @@ h1 {
 }
 p {
     color:white;
+    margin-top: 250px;
     text-align: center;
 }
 ul{
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 li {
     text-decoration: none;
@@ -38,27 +35,19 @@ li {
     margin-left: 20px;
     border: transparent solid;
     
+    
 }
 li.active {
 border: solid white;
 
+
 }
 
+li:hover {
+    border: solid white;
+
+}
 h2 {
-    color: white;
-    text-align: center;
-    font-size: 40px;
-    font-family: sans-serif;
-}
-
-h3 {
-    color: white;
-    text-align: center;
-    font-size: 40px;
-    font-family: sans-serif;
-}
-
-h4 {
     color: white;
     text-align: center;
     font-size: 40px;
@@ -68,31 +57,4 @@ h4 {
 a {
     text-decoration: none;
     color: white;
-}
-
-
-
-div.omOss{
-    display: flex;
-    flex-direction: row;
-    text-align: center;
-    margin: 5px;
-    margin-bottom: 0px;
-    border: transparent solid;
-    
-}
-div.littOm{
-    margin-left: 12.5%;
-    margin-right: 15px;
-    text-align: center;
-    margin-top: 0px;
-    width: 30%;
-    font-size: 20px;
-
-
-}
-div.kart{
-    width: 50%;
-    text-align: center;
-    margin-top: 0px;
 }
