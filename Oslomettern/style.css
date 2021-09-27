@@ -4,9 +4,10 @@ body {
     height: 100px;
     background-position: cover;
     background-repeat: no-repeat;
-    background-color: black;
     position: relative;
-
+}
+footer{
+    background-color: black;
 }
 h1 {
     color: white;
