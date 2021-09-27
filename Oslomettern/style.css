@@ -43,6 +43,9 @@ li.active {
 border: solid white;
 
 }
+li:hover {
+    border: solid white;
+}
 
 h2 {
     color: white;
