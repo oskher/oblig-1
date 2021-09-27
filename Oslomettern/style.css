@@ -9,6 +9,9 @@ body {
 footer{
     background-color: black;
 }
+footer p{
+    color:white;
+}
 h1 {
     color: white;
     text-align: center;
@@ -19,7 +22,6 @@ h1 {
 }
 p {
     color:white;
-    margin-top: 250px;
     text-align: center;
 }
 ul{
@@ -36,16 +38,13 @@ li {
     margin-left: 20px;
     border: transparent solid;
     
-    
 }
 li.active {
 border: solid white;
 
-
 }
-
 li:hover {
-    border: solid white;
+    color:rgb(136, 101, 76);
 
 }
 h2 {
@@ -54,7 +53,6 @@ h2 {
     font-size: 40px;
     font-family: sans-serif;
 }
-
 a {
     text-decoration: none;
     color: white;
