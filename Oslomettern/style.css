@@ -70,6 +70,31 @@ a {
     color: white;
 }
 
+div.meny{
+    background-color:grey;
+    opacity: 0.8;
+    width: 75%;
+    margin-left: 12.5%;
+    padding: 10px;
+}
+
+
+
+div.apningstider{
+    background-color:grey;
+    opacity: 0.8;
+    width: 75%;
+    margin-left: 12.5%;
+    padding: 10px;
+}
+
+div.matinspirasjon{
+    background-color:grey;
+    opacity: 0.8;
+    width: 75%;
+    margin-left: 12.5%;
+    padding: 10px;
+}
 
 
 div.omOss{
@@ -79,20 +104,24 @@ div.omOss{
     margin: 5px;
     margin-bottom: 0px;
     border: transparent solid;
-    
+    background-color:grey;
+    opacity: 0.8;
+    width: 75%;
+    margin-left: 12.5%;
 }
 div.littOm{
-    margin-left: 12.5%;
-    margin-right: 15px;
     text-align: center;
     margin-top: 0px;
-    width: 30%;
+    width: 40%;
     font-size: 20px;
-
-
+    opacity: 1;
+    padding: 10px;
 }
 div.kart{
-    width: 50%;
+    width: 60%;
     text-align: center;
     margin-top: 0px;
+    opacity: 1;
+    padding: 10px;
 }
+
