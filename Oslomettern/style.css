@@ -137,7 +137,11 @@ div.boksmeny{
 }
 
 
+.matinsp{
+    width: 200px; 
+    height: 100%;
 
+}
 
 div.apningstider{
     background-color:grey;
@@ -150,7 +154,6 @@ div.apningstider{
 
 div.matinspirasjon{
     background-color:grey;
-    
     width: 75%;
     margin-left: 12.5%;
     padding: 10px;
@@ -214,6 +217,7 @@ div.omOss{
     width: 75%;
     margin-left: 12.5%;
     color:white;
+    line-height: 30px;
 }
 div.littOm{
     text-align: center;
@@ -231,3 +235,10 @@ div.kart{
     color:white;
 }
 
+div.raport{
+    background-color:grey;
+    width: 75%;
+    margin-left: 12.5%;
+    padding: 10px;
+    color:white;
+}
