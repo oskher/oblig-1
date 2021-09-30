@@ -90,11 +90,7 @@ a {
     text-decoration: none;
     color: white;
 }
-.matinsp{
-    width: 200px; 
-    height: 100%;
 
-}
 
 div.meny{
     width: 75%;
@@ -134,7 +130,7 @@ div.boksmeny{
 .meny h4{
 
     text-align: center;
-    font-size: 15px;
+    font-size: 20px;
     font-family: sans-serif;
     text-align: center;
     opacity: 1;
