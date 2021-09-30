@@ -66,6 +66,9 @@ li a{
 .nav-links li.active {
 border: solid white;
 }
+li:hover {
+    border: solid white;
+}
 
 /* FOOTER */
 
