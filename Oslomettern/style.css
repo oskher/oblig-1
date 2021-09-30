@@ -27,6 +27,7 @@ h2 {
 }
 
 /* NAV */
+
 header{
     justify-content: space-between;
     align-items: center;
@@ -91,6 +92,7 @@ border: solid white;
 }
 .footer-section h3{
     margin-bottom: 20px;
+    text-transform: capitalize;
 }
 .footer-section p{
     text-align: left;
