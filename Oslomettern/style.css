@@ -90,6 +90,11 @@ a {
     text-decoration: none;
     color: white;
 }
+.matinsp{
+    width: 200px; 
+    height: 100%;
+
+}
 
 div.meny{
     width: 75%;
