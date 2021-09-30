@@ -95,6 +95,7 @@ div.meny{
     width: 75%;
     margin-left: 12.5%;
     padding: 10px;
+
     text-align: center;
     line-height: 25px;
     color:white;
@@ -138,6 +139,9 @@ div.boksmeny{
 
 
 
+
+
+
 div.apningstider{
     background-color:grey;
 
@@ -155,7 +159,6 @@ div.matinspirasjon{
     padding: 10px;
     color:white;
 }
-  
 /* FOOTER */
 
 .footer{
@@ -230,3 +233,10 @@ div.kart{
     color:white;
 }
 
+
+
+.matinsp{
+    width: 200px; 
+    height: 100%;
+
+}
