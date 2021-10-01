@@ -1,3 +1,5 @@
+
+
 *{
     margin: 0;
     padding: 0;
@@ -241,4 +243,5 @@ div.raport{
     margin-left: 12.5%;
     padding: 10px;
     color:white;
+    line-height: 25px;
 }
