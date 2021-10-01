@@ -45,3 +45,158 @@ a {
     color: white;
 }
 
+<<<<<<< Updated upstream
+=======
+
+div.meny{
+    width: 75%;
+    margin-left: 12.5%;
+    padding: 10px;
+    text-align: center;
+    line-height: 25px;
+    color:white;
+
+}
+
+div.forrett{
+    text-align: center;
+}
+div.hoved{
+    text-align: center;
+}
+div.dessert{
+    text-align: center;
+}
+div.boksmeny{
+    background-color:grey;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.meny h3{
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    width: 300px;
+    text-align: center;
+    opacity: 1;
+}
+.meny h4{
+
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    opacity: 1;
+}
+
+
+.matinsp{
+    width: 200px; 
+    height: 100%;
+
+}
+
+div.apningstider{
+    background-color:grey;
+
+    width: 75%;
+    margin-left: 12.5%;
+    padding: 10px;
+    color:white;
+}
+
+div.matinspirasjon{
+    background-color:grey;
+    width: 75%;
+    margin-left: 12.5%;
+    padding: 10px;
+    color:white;
+}
+  
+/* FOOTER */
+
+.footer{
+    background: #303036;
+    color: #d3d3d3;
+    height: 240px;
+    padding: 20px 0 20px 0;
+    margin-top: 100px;
+    position: relative;
+}
+
+  .footer-content{
+    height: 200px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+.footer-section{
+    flex: 1;
+    flex-direction: column;
+    padding: 25px;
+}
+.footer-section h3{
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+.footer-section p{
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.footer-bottom{
+    background: #343a40;
+    color: #686868;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    padding-top: 15px;
+}
+
+
+div.omOss{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin: 5px;
+    margin-bottom: 0px;
+    border: transparent solid;
+    background-color:grey;
+    width: 75%;
+    margin-left: 12.5%;
+    color:white;
+    line-height: 30px;
+}
+div.littOm{
+    text-align: center;
+    margin-top: 0px;
+    width: 40%;
+    font-size: 20px;
+    padding: 10px;
+    color:white;
+}
+div.kart{
+    width: 60%;
+    text-align: center;
+    margin-top: 0px;
+    padding: 10px;
+    color:white;
+}
+
+div.rapport{
+    background-color:grey;
+    width: 75%;
+    margin-left: 12.5%;
+    padding: 10px;
+    color:white;
+    line-height: 25px;
+}
+>>>>>>> Stashed changes
