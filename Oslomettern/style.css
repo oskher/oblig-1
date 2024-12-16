@@ -1,3 +1,5 @@
+
+
 *{
     margin: 0;
     padding: 0;
@@ -91,11 +93,11 @@ a {
     color: white;
 }
 
+
 div.meny{
     width: 75%;
     margin-left: 12.5%;
     padding: 10px;
-
     text-align: center;
     line-height: 25px;
     color:white;
@@ -130,17 +132,18 @@ div.boksmeny{
 .meny h4{
 
     text-align: center;
-    font-size: 15px;
+    font-size: 20px;
     font-family: sans-serif;
     text-align: center;
     opacity: 1;
 }
 
 
+.matinsp{
+    width: 200px; 
+    height: 100%;
 
-
-
-
+}
 
 div.apningstider{
     background-color:grey;
@@ -153,12 +156,12 @@ div.apningstider{
 
 div.matinspirasjon{
     background-color:grey;
-    
     width: 75%;
     margin-left: 12.5%;
     padding: 10px;
     color:white;
 }
+  
 /* FOOTER */
 
 .footer{
@@ -216,6 +219,7 @@ div.omOss{
     width: 75%;
     margin-left: 12.5%;
     color:white;
+    line-height: 30px;
 }
 div.littOm{
     text-align: center;
@@ -233,10 +237,11 @@ div.kart{
     color:white;
 }
 
-
-
-.matinsp{
-    width: 200px; 
-    height: 100%;
-
+div.raport{
+    background-color:grey;
+    width: 75%;
+    margin-left: 12.5%;
+    padding: 10px;
+    color:white;
+    line-height: 25px;
 }
